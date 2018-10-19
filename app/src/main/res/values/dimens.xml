@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_elevation">3dp</dimen>
+    <dimen name="toolbar_custom_title">18sp</dimen>
+    <dimen name="photo_gallery_padding">4dp</dimen>
+</resources>
